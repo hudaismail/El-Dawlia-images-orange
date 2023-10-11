@@ -155,7 +155,7 @@ nav .icon{
 	
 }
 .content .contleft{
-	background:linear-gradient(rgba(0,0,0,.7),grey),url('image/OIP.JPEG');
+	background-image:url('image/OIP.jpeg');
 	background-size:cover;
 	height:50vh;
 	background-repeat:no-repeat;
