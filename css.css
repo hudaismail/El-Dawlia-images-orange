@@ -39,15 +39,15 @@ h1{
 	font-size:4rem;
 }
 nav .logo img{
-	width:150px;
-	height:150px;
+	width:200px;
+	height:200px;
 }
 @media only screen and (max-width:768px){
 	nav .logo img{
-		width:px;
-		height:px;
-		background:;
-	}
+		width:150px;
+		height:150px;
+
+		}
 	h1{
 		font-size:3rem;
 	}
